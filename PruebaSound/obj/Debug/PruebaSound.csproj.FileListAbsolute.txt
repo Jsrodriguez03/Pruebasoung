@@ -1,0 +1,11 @@
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\bin\Debug\PruebaSound.exe.config
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\bin\Debug\PruebaSound.exe
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\bin\Debug\PruebaSound.pdb
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\obj\Debug\PruebaSound.csproj.AssemblyReference.cache
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\obj\Debug\PruebaSound.csproj.SuggestedBindingRedirects.cache
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\obj\Debug\PruebaSound.Form1.resources
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\obj\Debug\PruebaSound.Properties.Resources.resources
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\obj\Debug\PruebaSound.csproj.GenerateResource.cache
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\obj\Debug\PruebaSound.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\obj\Debug\PruebaSound.exe
+D:\Biblioteca\Documents\Visual Studio Projects\PruebaSound\PruebaSound\obj\Debug\PruebaSound.pdb
