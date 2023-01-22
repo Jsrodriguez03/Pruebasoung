@@ -22,6 +22,7 @@ namespace PruebaSound
         {
             SoundPlayer player = new SoundPlayer();
             player.SoundLocation = "C:\\Users\\SSD 120\\Downloads\\Pruebasoung-main/Leusd.wav";
+            //Prueba
             player.Play();
         }
     }
